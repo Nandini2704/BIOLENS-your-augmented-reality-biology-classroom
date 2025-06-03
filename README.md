@@ -21,7 +21,7 @@
 - **ARCore** (marker-based AR)  
 - **ONNX + Barracuda** (image classification in Unity)  
 - **Blender** (3D animation)  
-- **Firebase** (future integration for backend support)
+
 
 ---
 
